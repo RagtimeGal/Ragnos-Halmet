@@ -1,0 +1,23 @@
+{
+  "parent": "hamlet:tech_tree/root",
+  "display": {
+    "icon": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "title": {
+      "translate": "advancements.hamlet.tech_tree.magic.title"
+    },
+    "description": {
+      "translate": "advancements.hamlet.tech_tree.magic.description"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

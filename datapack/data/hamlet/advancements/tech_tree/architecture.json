@@ -1,0 +1,23 @@
+{
+  "parent": "hamlet:tech_tree/root",
+  "display": {
+    "icon": {
+      "item": "minecraft:iron_shovel"
+    },
+    "title": {
+      "translate": "advancements.hamlet.tech_tree.architecture.title"
+    },
+    "description": {
+      "translate": "advancements.hamlet.tech_tree.architecture.description"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}
