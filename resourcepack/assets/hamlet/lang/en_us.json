@@ -12,8 +12,6 @@
   "advancements.hamlet.tech_tree.architecture.description": "The base of the Architectural branch.",
   "advancements.hamlet.tech_tree.science.title": "Science",
   "advancements.hamlet.tech_tree.science.description": "The base of the Scientific branch.",
-  "advancements.hamlet.tech_tree.economy.title": "Economy",
-  "advancements.hamlet.tech_tree.economy.description": "The base of the Economic branch.",
   "advancements.hamlet.tech_tree.philosophy.title": "Philosophy",
   "advancements.hamlet.tech_tree.philosophy.description": "The base of the Philosophical branch.",
   "advancements.hamlet.tech_tree.production.title": "Production",
@@ -22,27 +20,40 @@
   "advancements.hamlet.tech_tree.magic.description": "The base of the Magical branch.",
 
   "advancements.hamlet.tech_tree.military.army.title": "Armed Forces",
-  "advancements.hamlet.tech_tree.military.army.description": "The base of the Production branch.",
+  "advancements.hamlet.tech_tree.military.army.description": "The base of the Militial branch.",
   "advancements.hamlet.tech_tree.military.navy.title": "Naval Forces",
   "advancements.hamlet.tech_tree.military.navy.description": "The base of the Naval branch.",
   "advancements.hamlet.tech_tree.military.air.title": "Air Forces",
   "advancements.hamlet.tech_tree.military.air.description": "The base of the Air Force branch.",
 
-  "advancements.hamlet.tech_tree.architecture.[].title": "[]",
-  "advancements.hamlet.tech_tree.architecture.[].description": "[]",
+  "advancements.hamlet.tech_tree.architecture.building_upgrades.title": "Building Upgrades",
+  "advancements.hamlet.tech_tree.architecture.building_upgrades.description": "The base of the Building Upgrades branch.",
+  "advancements.hamlet.tech_tree.architecture.castle_upgrade.title": "Defense Upgrades",
+  "advancements.hamlet.tech_tree.architecture.castle_upgrade.description": "The base of the Building Upgrades branch.",
 
-  "advancements.hamlet.tech_tree.science.[].title": "[]",
-  "advancements.hamlet.tech_tree.science.[].description": "[]",
+  "advancements.hamlet.tech_tree.science.agriculture.title": "Agriculture",
+  "advancements.hamlet.tech_tree.science.agriculture.description": "The base of the Agricultural branch.",
+  "advancements.hamlet.tech_tree.science.zoolgy.title": "[]",
+  "advancements.hamlet.tech_tree.science.zoolgy.description": "[]",
+  "advancements.hamlet.tech_tree.science.chemistry.title": "[]",
+  "advancements.hamlet.tech_tree.science.chemistry.description": "[]",
+  "advancements.hamlet.tech_tree.science.medicine.title": "[]",
+  "advancements.hamlet.tech_tree.science.medicine.description": "[]",
 
-  "advancements.hamlet.tech_tree.economy.[].title": "[]",
-  "advancements.hamlet.tech_tree.economy.[].description": "[]",
+  "advancements.hamlet.tech_tree.philosophy.religion.title": "[]",
+  "advancements.hamlet.tech_tree.philosophy.religion.description": "[]",
+  "advancements.hamlet.tech_tree.philosophy.social.title": "[]",
+  "advancements.hamlet.tech_tree.philosophy.social.description": "[]",
+  "advancements.hamlet.tech_tree.philosophy.political.title": "[]",
+  "advancements.hamlet.tech_tree.philosophy.political.description": "[]",
 
-  "advancements.hamlet.tech_tree.philosophy.[].title": "[]",
-  "advancements.hamlet.tech_tree.philosophy.[].description": "[]",
-
+  "advancements.hamlet.tech_tree.production.economy.title": "[]",
+  "advancements.hamlet.tech_tree.production.economy.description": "[]",
   "advancements.hamlet.tech_tree.production.[].title": "[]",
   "advancements.hamlet.tech_tree.production.[].description": "[]",
 
-  "advancements.hamlet.tech_tree.magic.[].title": "[]",
-  "advancements.hamlet.tech_tree.magic.[].description": "[]"
+  "advancements.hamlet.tech_tree.magic.dark_magic.title": "[]",
+  "advancements.hamlet.tech_tree.magic.dark_magic.description": "[]",
+  "advancements.hamlet.tech_tree.magic.holy_magic.title": "[]",
+  "advancements.hamlet.tech_tree.magic.holy_magic.description": "[]"
 }

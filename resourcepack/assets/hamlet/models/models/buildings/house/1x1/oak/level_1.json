@@ -1,0 +1,6 @@
+{
+    "parent": "hamlet:models/buildings/house/1x1/parent",
+    "textures": {
+      "top": "hamlet:models/buildings/house/oak/1x1/level_1"
+    }
+}

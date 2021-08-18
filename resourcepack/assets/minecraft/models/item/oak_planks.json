@@ -1,0 +1,56 @@
+{
+  "parent": "block/oak_planks",
+  "textures": {
+    "layer0": "block/oak_planks"
+  },
+  "overrides": [
+    {
+        "predicate": {
+          "custom_model_data": 400000
+        },
+      "model": "hamlet:models/buildings/city_center/oak/level_1"
+    },
+    {
+        "predicate": {
+          "custom_model_data": 400001
+        },
+      "model": "hamlet:models/buildings/city_center/oak/level_2"
+    },
+    {
+        "predicate": {
+          "custom_model_data": 400002
+        },
+      "model": "hamlet:models/buildings/city_center/oak/level_3"
+    },
+    {
+        "predicate": {
+          "custom_model_data": 400003
+        },
+      "model": "hamlet:models/buildings/city_center/oak/level_4"
+    },
+    {
+        "predicate": {
+          "custom_model_data": 400004
+        },
+      "model": "hamlet:models/buildings/city_center/oak/level_5"
+    },
+    {
+        "predicate": {
+          "custom_model_data": 400005
+        },
+      "model": "hamlet:models/buildings/house/1x1/oak/level_1"
+    },
+    {
+        "predicate": {
+          "custom_model_data": 400006
+        },
+      "model": "hamlet:models/buildings/house/1x1/oak/level_2"
+    },
+    {
+        "predicate": {
+          "custom_model_data": 400007
+        },
+      "model": "hamlet:models/buildings/house/1x1/oak/level_3"
+    }
+  ]
+}
