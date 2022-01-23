@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": 7,
-    "description": [{"text":"Rag's Hamlet","color":"gold"},{"text":"\n"},{"text":"Beta 1.0","color":"#7F470B"}]
+    "pack_format": 8,
+    "description": [{"text":"Rag's Hamlet","color":"#7F470B"},{"text":"\n"},{"text":"Beta 1.0","color":"#7F470B"}]
   }
 }
