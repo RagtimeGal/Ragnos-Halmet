@@ -13,7 +13,9 @@ scoreboard objectives add hamlet.kingdomID dummy
 
 ## Setup Triggers
 scoreboard objectives add hamlet.create_empire trigger
+scoreboard objectives add hamlet.join_empire trigger
 scoreboard objectives modify hamlet.create_empire displayname "Create Empire"
+scoreboard objectives modify hamlet.join_empire displayname "Join Empire"
 
 ## Schedule
 schedule function hamlet:technical/second_clock 1s replace
